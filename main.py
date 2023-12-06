@@ -40,3 +40,6 @@ if __name__ == "__main__":
     # Substitua 'caminho_entrada.xlsx' pelo caminho do seu arquivo de entrada
     processar_planilha(latest_file)
 
+    print("Fim do script")
+    print("Fim do script")
+
